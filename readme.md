@@ -1,4 +1,4 @@
-# How TypeScript Helped Me Write Better Code (And Break Less Things)
+# How does TypeScript help in improving code quality and project maintainability?
 
 ## What Even Is TypeScript?
 
@@ -61,7 +61,7 @@ Now if I try to call it with `null`, it won't even compile! Saved by the compile
 ---
 
 
-# Interfaces vs Types in TypeScript: What's the Difference? (A Beginner's Guide)
+# Interfaces vs Types in TypeScript: What's the Difference? 
 
 
 ## 1. Basic Syntax
